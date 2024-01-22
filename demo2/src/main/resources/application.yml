@@ -1,0 +1,8 @@
+server:
+  port: 8082
+person:
+  age: 12
+  name: zhangsan
+  s:
+    - happy
+    - happy2
